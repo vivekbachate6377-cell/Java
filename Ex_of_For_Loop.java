@@ -1,0 +1,21 @@
+// public class Ex_of_For_Loop {
+//     public static void main(String[] args) {
+        
+//         for(int counter = 0; counter < 10; counter = counter + 1){
+//             System.out.println("Hello World");
+//         }
+//     }
+    
+// }
+
+public class Ex_of_For_Loop {
+    public static void main(String[] args) {
+        
+        for(int counter = 0; counter < 11; counter++){
+
+            System.out.println(counter+" ");
+           
+        }
+    }
+    
+}
